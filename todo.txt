@@ -1,2 +1,2 @@
 todoo
-seeder
+Course seeder
